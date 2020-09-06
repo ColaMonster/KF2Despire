@@ -47,7 +47,7 @@ defaultproperties
     FireModeIconPaths(DEFAULT_FIREMODE)=Texture2D'ui_firemodes_tex.UI_FireModeSelect_ShotgunAuto'
     FiringStatesArray(DEFAULT_FIREMODE)=WeaponFiring
     WeaponFireTypes(DEFAULT_FIREMODE)=EWFT_Projectile
-    WeaponProjectiles(DEFAULT_FIREMODE)=class'KFProj_Bullet_Pellet'
+    WeaponProjectiles(DEFAULT_FIREMODE)=class'KFProj_Bullet_Pellet_Saiga'     //Default KFProj_Bullet_Pellet 
     InstantHitDamage(DEFAULT_FIREMODE)=20.0 //25 //20                   //more damage add later
     InstantHitDamageTypes(DEFAULT_FIREMODE)=class'KFDT_Ballistic_Saiga'  //KFDT_Ballistic_AA12Shotgun
     PenetrationPower(DEFAULT_FIREMODE)=2.0
