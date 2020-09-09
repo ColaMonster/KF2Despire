@@ -33,8 +33,8 @@ function bool ShouldWarnAIWhenFired()
 
 defaultproperties
 {
-	MaxSpeed=7000.0
-	Speed=7000.0
+	MaxSpeed=10000.0
+	Speed=10000.0			//default for both MaxSpeed and Speed was 7000
 
 	bWarnAIWhenFired=true
 
